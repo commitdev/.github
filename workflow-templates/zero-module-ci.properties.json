@@ -1,0 +1,9 @@
+{
+  "name": "Zero Module workflow",
+  "description": "Zero Modules CI workflow template.",
+  "iconName": "commit-logo", 
+  "filePatterns": [
+      "^MAKEFILE",
+      ".*\\.md$"
+  ]
+}
