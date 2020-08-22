@@ -36,3 +36,4 @@ jobs:
         done
 
         echo "required make rules exist"
+# TODO: validate zero-module.yml

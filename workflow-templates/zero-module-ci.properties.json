@@ -1,5 +1,5 @@
 {
-  "name": "Zero Module workflow",
+  "name": "Zero Modules CI workflow",
   "description": "Zero Modules CI workflow template.",
   "iconName": "commit-logo", 
   "filePatterns": [
